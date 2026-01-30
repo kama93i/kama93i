@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently learning Rust.<br>
-I've been using github for the past 5 years.<br>
+I've been using github for the past 5 years but never really contributed to any project.<br>
 
 
 # 💻 Tech Stack:
