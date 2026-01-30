@@ -3,7 +3,7 @@ I'm currently learning Rust.<br>
 I've been using GitHub for the past 5 years but never really contributed to any project.<br>
 I'm looking forward to participate in real life projects, not just my own.<br> <br>
 
-The programming language I've used the most is Python. Combining it with different databases.<br>
+The programming language I've used the most is Python.<br>
 I've also worked with different libraries, such as Flask, FastAPI and NumPy.<br>
 
 
