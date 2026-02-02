@@ -12,7 +12,7 @@ I have basic knowledge on Rust topics such as:
 - The creates system
 - Error handling with Result and Option types
 
-The features i like most about Rust is structures/enums and macros.
+The features i like most about Rust is structures/enums, iterators and macros.
 
 The programming language I've used the most is Python.
 I've also worked with different libraries, such as Flask, FastAPI and NumPy.
