@@ -12,6 +12,8 @@ I have basic knowledge on rust topics such as:
 - The creates system
 - Error handling with Result and Option types
 
+The features i like most about rust is its structures/enums and macros.
+
 The programming language I've used the most is Python.
 I've also worked with different libraries, such as Flask, FastAPI and NumPy.
 Through building various projects, I've become familiar with REST APIs, database interactions, and basic software architecture patterns, which i am very interested in.
