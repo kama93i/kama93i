@@ -1,6 +1,5 @@
 # 👤 About Me:
 I'm currently learning Rust.
-I've been using GitHub for the past 5 years but never really contributed to any project.
 I'm looking forward to participating in real life projects, not just my own.
 
 I started learning programming about 5 years ago because i wanted to create my own discord bot using Python. It has been a very rewarding journey. Now i have gained a large understanding of how computers work, both at low and high level.
