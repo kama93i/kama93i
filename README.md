@@ -1,6 +1,6 @@
 # Hey, I'm Nil 👋
 
-Backend developer interested in **performance-critical systems**, asynchronous programming, and software architecture. 
+Backend developer interested in **performance-critical systems**, asynchronous programming, and software architecture. <br>
 Right now studying Higher Education (DAM) at Monlau. 
 
 I use **Rust** for performance, strong error handling, and memory safety.  
