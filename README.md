@@ -11,11 +11,11 @@ I use **Python** as a productive interface layer for APIs and tools.
 ## Projects
 
 **Concurrent HTTP Client (Rust → Python)**  
-I built a concurrent HTTP library in Rust using **Tokio** and **reqwest** because Python’s `requests` library was too slow for testing APIs I created.  
-The library is exposed to Python using **PyO3**, so Python code can benefit from Rust performance.
+I built a concurrent HTTP library in Rust using [Tokio](https://github.com/tokio-rs/tokio) and [reqwest](https://github.com/seanmonstar/reqwest) because Python’s `requests` library was too slow for testing APIs I created.  
+The library is exposed to Python using [PyO3](https://github.com/PyO3/pyo3), so Python code can benefit from Rust performance.
 
 **TUI Quiz App (Rust)**  
-A small terminal quiz application built with **ratatui** and **serde**.  
+A small terminal quiz application built with [ratatui](https://github.com/ratatui/ratatui) and [serde](https://github.com/serde-rs/serde).  
 I created it to practice for exams and to challenge myself with Rust quizzes.  
 The app loads questions from JSON files and focuses on clean structure and correctness.
 
