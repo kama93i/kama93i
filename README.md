@@ -1,87 +1,37 @@
 # Hey, I'm Nil 👋
 
-Backend developer focused on performance-critical systems, async concurrency, and Rust ↔ Python interoperability.
+Backend developer focused on **performance-critical systems**, async concurrency, and **Rust ↔ Python** interoperability.
 
-I use **Rust** where performance, correctness, and memory safety matter, and **Python** as a productive interface layer for APIs, tooling, and experimentation.
-
----
-
-## About Me
-
-I’m particularly interested in systems where latency, throughput, and correctness are first-class concerns.  
-My work often sits at the boundary between high-level developer ergonomics and low-level performance.
-
-I enjoy designing async systems, reasoning about concurrency, and building libraries that are both fast and usable.
+I use **Rust** for performance, error handling, and memory safety, and **Python** as a productive interface layer.
 
 ---
 
 ## Projects
 
-### Concurrent HTTP Client (Rust → Python)
+**Concurrent HTTP Client (Rust → Python)**  
+Built a concurrent HTTP library in Rust using **Tokio** and **reqwest** after finding Python’s `requests` too slow for API testing.  
+Exposed to Python via **PyO3**, combining Rust-level performance with a simple Python API.
 
-I built a concurrent HTTP library in **Rust** using **Tokio** and **reqwest** after finding Python’s standard `requests` library too slow for testing APIs I was developing.
-
-The core is implemented in Rust to take advantage of:
-- Efficient async concurrency with Tokio
-- Strong error handling using `Result` and explicit failure states
-- Memory safety without a garbage collector
-
-The library is exposed to Python using **PyO3**, allowing Python code to benefit from Rust-level performance while keeping a simple, familiar API.
-
-This project reflects how I approach performance problems: push critical paths down to Rust, keep Python as a clean integration layer.
-
----
-
-### TUI Quiz Application (Rust)
-
-A small terminal-based quiz application built with **ratatui**, created as a way to practice for exams and challenge myself with Rust quizzes.
-
-The application:
-- Loads questions from JSON files using **serde**
-- Separates data loading, application state, and rendering logic
-- Focuses on correctness and simplicity rather than features
-
-It’s not meant to be fancy — just a practical TUI app that helped me practice Rust while reinforcing clean structure and data-driven design.
+**TUI Quiz App (Rust)**  
+A small terminal quiz app built with **ratatui** and **serde**, created to practice for exams and Rust quizzes.  
+Focused on clean structure, JSON-driven data, and correctness.
 
 ---
 
 ## Technical Focus
 
-### Rust
-- Async programming with **Tokio**
-- Concurrency patterns and task orchestration
-- Error handling with `Result` and `Option`
-- Ownership, lifetimes, and memory safety
-- Rust ↔ Python bindings with **PyO3**
-- Terminal UI development with **ratatui**
-
-### Python
-- FastAPI and Flask for API development
-- REST API design and testing
-- Data processing with NumPy and pandas
-- Using Python as a high-level interface over performance-critical Rust code
+- **Rust**: Tokio async, concurrency, error handling, ownership, PyO3, ratatui  
+- **Python**: FastAPI, Flask, REST APIs, NumPy/pandas  
+- **Interests**: performance optimization, async systems, system architecture
 
 ---
 
-## Interests
+## Origin
 
-- Performance optimization and benchmarking
-- Concurrent and asynchronous systems
-- Designing libraries and developer-facing tools
-- System architecture and trade-offs between safety, speed, and ergonomics
+Started programming with a Python Discord bot ~5 years ago.  
+That led me into async I/O, performance bottlenecks, and eventually Rust for building faster, safer systems.
 
 ---
-
-## Origin Story
-
-I started programming about five years ago by building a Discord bot in Python.  
-That led me into async I/O, API design, and eventually into performance bottlenecks that Python alone couldn’t solve.
-
-Over time, this pushed me toward Rust — from low-level memory management and error handling to higher-level architectural patterns — while still keeping Python as a productive layer on top.
-
----
-
-## GitHub Stats
 
 
 # 💻 Tech Stack:
