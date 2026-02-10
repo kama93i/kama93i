@@ -1,25 +1,13 @@
-# 👤 About Me
+# Hey, I'm Nil 👋
 
-**Backend developer** building with Python and Rust, focusing on async systems and performance optimization.
+Backend developer building with Python and Rust, focusing on async systems and performance optimization.
+
+# About Me  
 
 ## What I'm Working On
 - 🦀 Building production-grade Rust projects with Tokio for concurrent systems
 - 🔗 Bridging Rust and Python with PyO3 for high-performance libraries
 - 🎯 Seeking opportunities to contribute to real-world projects and teams
-
-## Recent Projects
-
-### [fast-requests](https://github.com/kama93i/Rust-Quiz-App) - Concurrent HTTP Library
-High-performance Python HTTP client powered by Rust and Tokio, achieving 10x+ speedup over sequential alternatives.
-- **Built with:** Rust, Tokio, PyO3, reqwest
-- **Key features:** Concurrent request execution, connection pooling, error-resilient design
-- **What I learned:** Async/await patterns, PyO3 FFI, Tokio runtime management
-
-### [quiz-tui](https://github.com/kama93i/fast-requests) - Terminal Quiz Application  
-Interactive terminal-based quiz application with JSON-based question loading.
-- **Built with:** Rust, ratatui
-- **Key features:** TUI interface, exam simulation, dynamic question rendering
-- **What I learned:** Terminal UI design, event handling, state management
 
 ## Technical Background
 
