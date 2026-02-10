@@ -4,7 +4,7 @@ I've been using GitHub for the past 5 years but never really contributed to any 
 I'm looking forward to participating in real life projects, not just my own.
 
 I started learning programming about 5 years ago because i wanted to create my own discord bot using Python. It has been a very rewarding journey. Now i have gained a large understanding of how computers work, both at low and high level.
-Currently learning Rust to become a backend engineer, im focusing on crates such as Tokio to learn about multithreaded programs and asynchronous programming.
+Currently learning Rust to become a backend engineer, im focusing on crates such as Tokio to learn about multithreaded and asynchronous programming.
 I have basic knowledge on Rust topics such as:
 - The Borrow Checker
 - Cargo
@@ -12,7 +12,7 @@ I have basic knowledge on Rust topics such as:
 - The creates system
 - Error handling with Result and Option types
 
-The features i like most about Rust are structures/enums, iterators and macros.
+The features I like most about Rust are structures/enums, iterators and macros.
 
 The programming language I've used the most is Python.
 I've also worked with different libraries, such as Flask, FastAPI and NumPy.
