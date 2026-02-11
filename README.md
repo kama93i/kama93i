@@ -45,5 +45,5 @@ Later, I became interested in performance problems and optimizations, which led 
 ![](https://nirzak-streak-stats.vercel.app/?user=kama93i&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kama93i&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Vim enthusiast
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
