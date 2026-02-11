@@ -25,7 +25,7 @@ The app loads questions from JSON files and focuses on clean structure and corre
 
 - **Rust**: async programming with Tokio, concurrency, error handling, ownership, PyO3, ratatui  
 - **Python**: FastAPI, Flask, REST APIs, NumPy, pandas  
-- **Interests**: performance optimization, asynchronous systems, system architecture
+- **Interests**: performance optimization, asynchronous systems, system architecture, pentesting
 
 ---
 
