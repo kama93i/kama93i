@@ -15,8 +15,9 @@ I built a concurrent HTTP library in Rust using [Tokio](https://github.com/tokio
 The library is exposed to Python using [PyO3](https://github.com/PyO3/pyo3), so Python code can benefit from Rust performance.
 
 **TUI Quiz App (Rust)**  
-A small terminal quiz application built with [ratatui](https://github.com/ratatui/ratatui) and [serde](https://github.com/serde-rs/serde).  
-I created it to practice for exams and to challenge myself with Rust quizzes.  
+A terminal quiz application built with [ratatui](https://github.com/ratatui/ratatui) and [serde](https://github.com/serde-rs/serde).  
+I created it to practice for exams and to challenge myself with Rust quizzes.
+Then upgraded to handle multiple users via a WebSocket connection.
 The app loads questions from JSON files and focuses on clean structure and correctness.
 
 ---
