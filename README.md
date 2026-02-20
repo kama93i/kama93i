@@ -25,7 +25,8 @@ The app loads questions from JSON files and focuses on clean structure and corre
 ## Technical Focus
 
 - **Rust**: async programming with Tokio, concurrency, error handling, memory management
-- **Python**: FastAPI, Flask, REST APIs, NumPy, pandas  
+- **Python**: FastAPI, Flask, REST APIs, NumPy, pandas
+- **Technologies**: SQL, Docker, Linux
 - **Interests**: performance optimization, asynchronous systems, system architecture, pentesting
 
 ---
