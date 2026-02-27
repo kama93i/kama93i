@@ -21,7 +21,7 @@ Then upgraded to handle multiple users via a WebSocket connection.
 The app loads questions from JSON files and focuses on clean structure and correctness.
 
 **Port Scanner (Rust)**  
-A concurrent TCP port scanner CLI app using [Tokio](https://github.com/tokio-rs/tokio) and [Clap](https://github.com/clap-rs/clap) as an argument parser.  
+A concurrent TCP port scanner CLI app using the [Tokio](https://github.com/tokio-rs/tokio) runtime and [Clap](https://github.com/clap-rs/clap) as an argument parser.  
 I created this as a side project as I've always been interested in Cybersecurity.  
 This app handles custom errors and has been optimized multiple times.  
 
