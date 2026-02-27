@@ -4,7 +4,7 @@ Backend developer interested in **performance-critical systems**, asynchronous p
 Right now studying Higher Education (DAM) at Monlau. 
 
 I use **Rust** for performance, strong error handling, and memory safety.  
-I use **Python** as a productive interface layer for APIs and tools.
+I use **Python** to test my prototypes.
 
 ---
 
