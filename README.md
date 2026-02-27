@@ -21,7 +21,6 @@ Then upgraded to handle multiple users via a WebSocket connection.
 The app loads questions from JSON files and focuses on clean structure and correctness.
 
 **Port Scanner (Rust)**
-
 A concurrent TCP scanner using [Tokio](https://github.com/tokio-rs/tokio).
 I created this as a side project as i've always been interested on Cybersecurity.
 This app handles custom errors and has been optimized multiple times.
