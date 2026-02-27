@@ -11,17 +11,17 @@ I use **Python** as a productive interface layer for APIs and tools.
 ## Projects
 
 **Concurrent HTTP Client (Rust → Python)**  
-I built a concurrent HTTP library in Rust using [Tokio](https://github.com/tokio-rs/tokio) and [reqwest](https://github.com/seanmonstar/reqwest) because Python’s `requests` library was too slow for testing APIs I created.  
+I built a concurrent HTTP library in Rust using [Tokio](https://github.com/tokio-rs/tokio) and [Reqwest](https://github.com/seanmonstar/reqwest) because Python’s `requests` library was too slow for testing APIs I created.  
 The library is exposed to Python using [PyO3](https://github.com/PyO3/pyo3), so Python code can benefit from Rust performance.
 
 **TUI Quiz App (Rust)**  
-A terminal quiz application built with [ratatui](https://github.com/ratatui/ratatui) and [serde](https://github.com/serde-rs/serde).  
+A terminal quiz application built with [Ratatui](https://github.com/ratatui/ratatui) and [Serde](https://github.com/serde-rs/serde).  
 I created it to practice for exams and to challenge myself with Rust quizzes.
 Then upgraded to handle multiple users via a WebSocket connection.
 The app loads questions from JSON files and focuses on clean structure and correctness.
 
 **Port Scanner (Rust)**  
-A concurrent TCP scanner using [Tokio](https://github.com/tokio-rs/tokio).  
+A concurrent TCP port scanner CLI app using [Tokio](https://github.com/tokio-rs/tokio) and [Clap](https://github.com/clap-rs/clap) as an argument parser.  
 I created this as a side project as I've always been interested in Cybersecurity.  
 This app handles custom errors and has been optimized multiple times.  
 
