@@ -18,7 +18,7 @@ The library is exposed to Python using [PyO3](https://github.com/PyO3/pyo3), so 
 A terminal quiz application built with [Ratatui](https://github.com/ratatui/ratatui) and [Serde](https://github.com/serde-rs/serde).  
 I created it to practice for exams and to challenge myself with Rust quizzes.
 Then upgraded to handle multiple users via a WebSocket connection.
-The app loads questions from JSON files and focuses on clean structure and correctness.
+The app loads questions from JSON files.
 
 **Port Scanner (Rust)**  
 A concurrent TCP port scanner CLI app using the [Tokio](https://github.com/tokio-rs/tokio) runtime and [Clap](https://github.com/clap-rs/clap) as an argument parser.  
