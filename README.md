@@ -22,7 +22,7 @@ The app loads questions from JSON files and focuses on clean structure and corre
 
 **Port Scanner (Rust)**
 A concurrent TCP scanner using [Tokio](https://github.com/tokio-rs/tokio).
-I created this as a side project as i've always been interested on Cybersecurity.
+I created this as a side project as I've always been interested in Cybersecurity.
 This app handles custom errors and has been optimized multiple times.
 
 ---
