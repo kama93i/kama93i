@@ -1,50 +1,14 @@
 # Hey, I'm Nil 👋
 
-Backend developer interested in **performance-critical systems**, asynchronous programming, and software architecture. <br>
+Systems developer interested in **performance-critical systems**, asynchronous programming, and software architecture. <br>
 Right now studying Higher Education (DAM) at Monlau. 
 
-I use **Rust** for performance, strong error handling, and memory safety.  
-I use **Python** to test my prototypes.
-
 ---
 
-## Projects
+## A bit about myself
 
-**Concurrent HTTP Client (Rust → Python)**  
-I built a concurrent HTTP library in Rust using [Tokio](https://github.com/tokio-rs/tokio) and [Reqwest](https://github.com/seanmonstar/reqwest) because Python’s `requests` library was too slow for testing APIs I created.  
-The library is exposed to Python using [PyO3](https://github.com/PyO3/pyo3), so Python code can benefit from Rust performance.
-
-**TUI Quiz App (Rust)**  
-A terminal quiz application built with [Ratatui](https://github.com/ratatui/ratatui) and [Serde](https://github.com/serde-rs/serde).  
-I created it to practice for exams and to challenge myself with Rust quizzes.
-Then upgraded to handle multiple users via a WebSocket connection.
-The app loads questions from JSON files.
-
-**Port Scanner (Rust)**  
-A concurrent TCP port scanner CLI app using the [Tokio](https://github.com/tokio-rs/tokio) runtime and [Clap](https://github.com/clap-rs/clap) as an argument parser.  
-I created this as a side project as I've always been interested in Cybersecurity.  
-This app handles custom errors and has been optimized multiple times.  
-
----
-
-## Technical Focus
-
-- **Rust**: async programming with Tokio, concurrency, error handling, memory management
-- **Python**: FastAPI, Flask, REST APIs, NumPy, pandas
-- **Technologies**: SQL, Docker, Linux
-- **Interests**: performance optimization, asynchronous systems, system architecture, pentesting
-
----
-
-## Origin
-
-I started programming about five years ago by building a Discord bot in Python.  
-This introduced me to async I/O and API development.  
+I started programming about five years ago by building a Discord bot in Python, this introduced me to async I/O and API development.  
 Later, I became interested in performance problems and optimizations, which led me to Rust.
+Since then i have been learning and using Rust in my projects.
 
 ---
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-
